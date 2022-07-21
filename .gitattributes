@@ -1,2 +1,2 @@
 *.html linguist-detectable=false
-*.rmd linguist-detectable=true
+*.r linguist-detectable=true
